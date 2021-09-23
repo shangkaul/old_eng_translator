@@ -1,7 +1,7 @@
 #translate_btn{
     padding: 1rem;
     font-size: 2rem;
-    background-color: purple;
+    background-color: #1c1c1c;
     color: white;
 
 }
@@ -27,19 +27,19 @@ textarea{
     padding-top: 1rem;
 text-align: center;
 top: 0;
-height: 3rem;
-font-size: 2rem;
-background-color: purple;
+padding-bottom:1rem;
+font-size: 3rem;
+background-color: #1c1c1c;
 color: white;
 width: 100%;
-font-family: sans-serif;
-font-weight: 600;
+font-family: 'Cherish';
+font-weight: 400;
 }
 
 footer{
     position: fixed;
     height: 4rem;
-    background-color: purple;
+    background-color: #1c1c1c;
     color: white;
     width: 100%;
     bottom: 0;
@@ -47,4 +47,10 @@ footer{
 }
 body{
     margin: 0;
+}
+
+.logo{
+    max-height: 5rem;
+    padding-right: 1rem;
+    margin-bottom: -1.5rem;
 }
